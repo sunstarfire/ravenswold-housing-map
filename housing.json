@@ -3,10 +3,17 @@
   "neighborhood": "Ravenswold",
   "plots": {
     "0": {
-      "owner": null,
-      "ownerType": 0,
-      "ownerTypeName": "none",
-      "residents": [],
+      "owner": "Thesalia-BronzeDragonflight",
+      "ownerType": 1,
+      "ownerTypeName": "stranger",
+      "residents": [
+        {
+          "name": "Thesalia",
+          "online": false,
+          "type": 0,
+          "typeName": "resident"
+        }
+      ],
       "x": 0.586320281,
       "y": 0.494046867
     },
@@ -42,10 +49,17 @@
       "y": 0.514472961
     },
     "12": {
-      "owner": null,
-      "ownerType": 0,
-      "ownerTypeName": "none",
-      "residents": [],
+      "owner": "Sarmaluta-Silvermoon",
+      "ownerType": 1,
+      "ownerTypeName": "stranger",
+      "residents": [
+        {
+          "name": "Sarmaluta",
+          "online": false,
+          "type": 0,
+          "typeName": "resident"
+        }
+      ],
       "x": 0.257345974,
       "y": 0.401689112
     },
@@ -58,18 +72,32 @@
       "y": 0.534331858
     },
     "14": {
-      "owner": null,
-      "ownerType": 0,
-      "ownerTypeName": "none",
-      "residents": [],
+      "owner": "Indomirex-Silvermoon",
+      "ownerType": 1,
+      "ownerTypeName": "stranger",
+      "residents": [
+        {
+          "name": "Indomirex",
+          "online": false,
+          "type": 0,
+          "typeName": "resident"
+        }
+      ],
       "x": 0.346788943,
       "y": 0.556502163
     },
     "15": {
-      "owner": null,
-      "ownerType": 0,
-      "ownerTypeName": "none",
-      "residents": [],
+      "owner": "Anumvella",
+      "ownerType": 1,
+      "ownerTypeName": "stranger",
+      "residents": [
+        {
+          "name": "Anumvella",
+          "online": false,
+          "type": 0,
+          "typeName": "resident"
+        }
+      ],
       "x": 0.514207602,
       "y": 0.555528283
     },
@@ -82,10 +110,17 @@
       "y": 0.491069078
     },
     "17": {
-      "owner": null,
-      "ownerType": 0,
-      "ownerTypeName": "none",
-      "residents": [],
+      "owner": "Kaedalia",
+      "ownerType": 1,
+      "ownerTypeName": "stranger",
+      "residents": [
+        {
+          "name": "Kaedalia",
+          "online": false,
+          "type": 0,
+          "typeName": "resident"
+        }
+      ],
       "x": 0.60959208,
       "y": 0.498262286
     },
@@ -106,12 +141,12 @@
       "y": 0.397252679
     },
     "2": {
-      "owner": "Lomothiel",
+      "owner": "Kelten",
       "ownerType": 1,
       "ownerTypeName": "stranger",
       "residents": [
         {
-          "name": "Lomothiel",
+          "name": "Kelten",
           "online": false,
           "type": 0,
           "typeName": "resident"
@@ -127,19 +162,26 @@
       "residents": [
         {
           "name": "Selvaryn",
-          "online": true,
-          "type": 1,
-          "typeName": "manager"
+          "online": false,
+          "type": 2,
+          "typeName": "owner"
         }
       ],
       "x": 0.600661159,
       "y": 0.648514986
     },
     "21": {
-      "owner": null,
-      "ownerType": 0,
-      "ownerTypeName": "none",
-      "residents": [],
+      "owner": "Robiken",
+      "ownerType": 1,
+      "ownerTypeName": "stranger",
+      "residents": [
+        {
+          "name": "Robiken",
+          "online": false,
+          "type": 0,
+          "typeName": "resident"
+        }
+      ],
       "x": 0.663018107,
       "y": 0.595531225
     },
@@ -152,7 +194,7 @@
       "y": 0.479529679
     },
     "23": {
-      "owner": "Arciana-KulTiras",
+      "owner": "Arciana-Ravencrest",
       "ownerType": 1,
       "ownerTypeName": "stranger",
       "residents": [
@@ -191,10 +233,17 @@
       "y": 0.602917433
     },
     "27": {
-      "owner": null,
-      "ownerType": 0,
-      "ownerTypeName": "none",
-      "residents": [],
+      "owner": "Fernay",
+      "ownerType": 1,
+      "ownerTypeName": "stranger",
+      "residents": [
+        {
+          "name": "Fernay",
+          "online": false,
+          "type": 0,
+          "typeName": "resident"
+        }
+      ],
       "x": 0.499360561,
       "y": 0.303229213
     },
@@ -231,10 +280,17 @@
       "y": 0.584386706
     },
     "31": {
-      "owner": null,
-      "ownerType": 0,
-      "ownerTypeName": "none",
-      "residents": [],
+      "owner": "Ylenixia",
+      "ownerType": 2,
+      "ownerTypeName": "friend",
+      "residents": [
+        {
+          "name": "Ylenixia",
+          "online": false,
+          "type": 0,
+          "typeName": "resident"
+        }
+      ],
       "x": 0.617668629,
       "y": 0.398622692
     },
@@ -263,42 +319,77 @@
       "y": 0.365144908
     },
     "35": {
-      "owner": null,
-      "ownerType": 0,
-      "ownerTypeName": "none",
-      "residents": [],
+      "owner": "Aeeilia",
+      "ownerType": 1,
+      "ownerTypeName": "stranger",
+      "residents": [
+        {
+          "name": "Aeeilia",
+          "online": false,
+          "type": 0,
+          "typeName": "resident"
+        }
+      ],
       "x": 0.367303669,
       "y": 0.636669099
     },
     "36": {
-      "owner": null,
-      "ownerType": 0,
-      "ownerTypeName": "none",
-      "residents": [],
+      "owner": "Maresalu-Silvermoon",
+      "ownerType": 1,
+      "ownerTypeName": "stranger",
+      "residents": [
+        {
+          "name": "Maresalu",
+          "online": false,
+          "type": 0,
+          "typeName": "resident"
+        }
+      ],
       "x": 0.328008175,
       "y": 0.557281196
     },
     "37": {
-      "owner": null,
-      "ownerType": 0,
-      "ownerTypeName": "none",
-      "residents": [],
+      "owner": "Ravline-Silvermoon",
+      "ownerType": 1,
+      "ownerTypeName": "stranger",
+      "residents": [
+        {
+          "name": "Ravline",
+          "online": false,
+          "type": 0,
+          "typeName": "resident"
+        }
+      ],
       "x": 0.447731972,
       "y": 0.633597076
     },
     "38": {
-      "owner": null,
-      "ownerType": 0,
-      "ownerTypeName": "none",
-      "residents": [],
+      "owner": "Malzin",
+      "ownerType": 2,
+      "ownerTypeName": "friend",
+      "residents": [
+        {
+          "name": "Malzin",
+          "online": false,
+          "type": 0,
+          "typeName": "resident"
+        }
+      ],
       "x": 0.600264668,
       "y": 0.610635281
     },
     "39": {
-      "owner": null,
-      "ownerType": 0,
-      "ownerTypeName": "none",
-      "residents": [],
+      "owner": "Dehakaa-Hyjal",
+      "ownerType": 2,
+      "ownerTypeName": "friend",
+      "residents": [
+        {
+          "name": "Dehakaa",
+          "online": false,
+          "type": 0,
+          "typeName": "resident"
+        }
+      ],
       "x": 0.418980896,
       "y": 0.3315534
     },
@@ -311,10 +402,17 @@
       "y": 0.352078736
     },
     "40": {
-      "owner": null,
-      "ownerType": 0,
-      "ownerTypeName": "none",
-      "residents": [],
+      "owner": "Caseni",
+      "ownerType": 1,
+      "ownerTypeName": "stranger",
+      "residents": [
+        {
+          "name": "Caseni",
+          "online": false,
+          "type": 0,
+          "typeName": "resident"
+        }
+      ],
       "x": 0.272221029,
       "y": 0.336019576
     },
@@ -343,10 +441,17 @@
       "y": 0.303860128
     },
     "44": {
-      "owner": null,
-      "ownerType": 0,
-      "ownerTypeName": "none",
-      "residents": [],
+      "owner": "Rellean",
+      "ownerType": 1,
+      "ownerTypeName": "stranger",
+      "residents": [
+        {
+          "name": "Rellean",
+          "online": false,
+          "type": 0,
+          "typeName": "resident"
+        }
+      ],
       "x": 0.476010203,
       "y": 0.299416423
     },
@@ -367,10 +472,17 @@
       "y": 0.435091496
     },
     "47": {
-      "owner": null,
-      "ownerType": 0,
-      "ownerTypeName": "none",
-      "residents": [],
+      "owner": "Murciagnomo-Zul'jin",
+      "ownerType": 1,
+      "ownerTypeName": "stranger",
+      "residents": [
+        {
+          "name": "Murciagnomo",
+          "online": false,
+          "type": 0,
+          "typeName": "resident"
+        }
+      ],
       "x": 0.472064495,
       "y": 0.39733386
     },
@@ -399,10 +511,17 @@
       "y": 0.591669559
     },
     "50": {
-      "owner": null,
-      "ownerType": 0,
-      "ownerTypeName": "none",
-      "residents": [],
+      "owner": "Aurrelion-Silvermoon",
+      "ownerType": 1,
+      "ownerTypeName": "stranger",
+      "residents": [
+        {
+          "name": "Aurrelion",
+          "online": false,
+          "type": 0,
+          "typeName": "resident"
+        }
+      ],
       "x": 0.353546441,
       "y": 0.415655077
     },
@@ -439,18 +558,32 @@
       "y": 0.446497321
     },
     "6": {
-      "owner": null,
-      "ownerType": 0,
-      "ownerTypeName": "none",
-      "residents": [],
+      "owner": "Attilaa-Ragnaros",
+      "ownerType": 1,
+      "ownerTypeName": "stranger",
+      "residents": [
+        {
+          "name": "Attilaa",
+          "online": false,
+          "type": 0,
+          "typeName": "resident"
+        }
+      ],
       "x": 0.623918176,
       "y": 0.573784947
     },
     "7": {
-      "owner": null,
-      "ownerType": 0,
-      "ownerTypeName": "none",
-      "residents": [],
+      "owner": "Ythir-Hellfire",
+      "ownerType": 1,
+      "ownerTypeName": "stranger",
+      "residents": [
+        {
+          "name": "Ythir",
+          "online": false,
+          "type": 0,
+          "typeName": "resident"
+        }
+      ],
       "x": 0.501118779,
       "y": 0.330031395
     },
@@ -471,6 +604,6 @@
       "y": 0.344542503
     }
   },
-  "updated": "2026-08-08T13:08:14Z",
+  "updated": "2026-09-29T17:40:43Z",
   "version": 1
 }
