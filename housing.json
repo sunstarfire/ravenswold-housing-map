@@ -264,10 +264,17 @@
       "y": 0.343004823
     },
     "3": {
-      "owner": null,
-      "ownerType": 0,
-      "ownerTypeName": "none",
-      "residents": [],
+      "owner": "Margraive-Quel'Thalas",
+      "ownerType": 1,
+      "ownerTypeName": "stranger",
+      "residents": [
+        {
+          "name": "Margraive",
+          "online": false,
+          "type": 0,
+          "typeName": "resident"
+        }
+      ],
       "x": 0.635373175,
       "y": 0.437840819
     },
@@ -311,10 +318,17 @@
       "y": 0.62654829
     },
     "34": {
-      "owner": null,
-      "ownerType": 0,
-      "ownerTypeName": "none",
-      "residents": [],
+      "owner": "Solanight-Hyjal",
+      "ownerType": 1,
+      "ownerTypeName": "stranger",
+      "residents": [
+        {
+          "name": "Solanight",
+          "online": false,
+          "type": 0,
+          "typeName": "resident"
+        }
+      ],
       "x": 0.401552439,
       "y": 0.365144908
     },
@@ -604,6 +618,6 @@
       "y": 0.344542503
     }
   },
-  "updated": "2026-09-29T17:40:43Z",
+  "updated": "2026-10-08T15:35:27Z",
   "version": 1
 }
